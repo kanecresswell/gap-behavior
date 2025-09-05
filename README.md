@@ -1,6 +1,7 @@
 # gap-behavior
 
-🧠 Behavioral Gap Classification & Session Flow Analysis
+🧠 Behavioral Gap Classification & Session Flow Analysis.
+
 This repository contains a modular Jupyter workflow for classifying trading sessions based on gap behavior, session structure, and closing position relative to prior range. It builds a three-stage behavioral funnel to empirically map market rhythm and flow tendencies.
 
 📦 What This Pipeline Does
